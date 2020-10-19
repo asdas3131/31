@@ -1,0 +1,16 @@
+setuptools
+pyrogram
+asyncio
+aiohttp
+tgcrypto
+requests
+pytz
+colorama
+rich
+python-dotenv
+beautifulsoup4
+lxml
+tabulate
+wget
+youtube_dl
+Pillow
